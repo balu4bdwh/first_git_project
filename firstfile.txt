@@ -1,3 +1,5 @@
 hiiiiiiiiiiiiiiiiiiiiii
 this is gittttttttttttttttttt
-first fileeeeeeeeeeeeeeeeeeeeeeeeee
+first fileeeeeeeeeeeeeeeeeeeeeeeee
+we are running git commands
+we can learn git easily
